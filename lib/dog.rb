@@ -1,11 +1,11 @@
 # dog.rb
 class Dog
 
-  def name=
+  def name=(name)
     @name
   end
 
-  def breed=
+  def breed=(breed)
     @breed
   end
 
