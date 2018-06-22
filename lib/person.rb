@@ -1,6 +1,6 @@
 # person.rb
 class Person
-  
+
   def name=(name)   #setter
     @name = name
   end
@@ -14,5 +14,5 @@ class Person
   def job
     @job
   end
-  
-end 
+
+end
